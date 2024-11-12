@@ -13,3 +13,15 @@ print(pharse)
 print("Concatenation")
 phrase = "Learn python"
 print(phrase + "is cool") #+ can add another string. Basically appending another string onto another one, they call that Concatenation.
+
+#Example4
+#Function perform a specific operation for us. Modify string and get information about our string.
+print("Function")
+phrase = "python is awosome"
+print(phrase.lower())
+print(phrase.upper()) #convert string in upper case 
+print(len(phrase)) #lenth of the string
+print(phrase[0]) #print first value of the string
+#index function 
+print(phrase.index("i"))
+print(phrase.replace("awosome", "is a programming languages"))
