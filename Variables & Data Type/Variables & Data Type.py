@@ -1,6 +1,6 @@
 character_name = "Xipa" #Variable_name, Type: int,str
 character_age = "24"    
-print("There once was a man name " + character_name + ", ")
+print("There once was a Woman name " + character_name + ", ")
 print("he was " + character_age + " years old.")
 
 character_name = "Zia"
